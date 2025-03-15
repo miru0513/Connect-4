@@ -1,3 +1,26 @@
-Connect Four is a game in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column vertically suspended grid.
-The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own tokens.
-If you run the ui.py file, the game will run in the console. If you run the gui.py file, the game will have a graphical interface as well.
+# Connect Four 🎲
+
+Connect Four is a **strategy game** where players take turns dropping colored tokens into a **6-row, 7-column grid**. The objective is to be the first to connect **four** tokens in a row **horizontally, vertically, or diagonally**.
+
+## How to Play 🎮
+1. You vs the computer take turns dropping tokens into the grid.
+2. Tokens fall to the lowest available space in a column.
+3. The first player to connect **four in a row** wins!
+
+## Features ✨
+- 🎨 **Graphical User Interface** (Run `GUI.py`)
+- 🖥️ **Console Version** (Run `UI.py`)
+- 🏆 **Singleplayer Support**
+- ✅ **Simple, yet challenging gameplay**
+
+## Installation 🚀
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/connect-four.git
+   cd connect-four
+2.Run the game in console
+  python UI.py
+3.Or Run the GUI version
+  python GUI.py
+
+
