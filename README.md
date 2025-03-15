@@ -18,9 +18,9 @@ Connect Four is a **strategy game** where players take turns dropping colored to
    ```bash
    git clone https://github.com/yourusername/connect-four.git
    cd connect-four
-2.Run the game in console
+2.Run the game in console/in GUI version
+   ```bash
   python UI.py
-3.Or Run the GUI version
   python GUI.py
 
 
